@@ -31,7 +31,7 @@ Q2. How many unverified host has verfied exact location and unverified exact loc
 Q3. How increase rental of the property what words to use to name it and what words to using in descriptions?
 
 ## File Descriptions <a name="files"></a>
-Data is from the Seattle Airbnb Open Data
+
 Since 2008, guests and hosts have used Airbnb to travel in a more unique, personalized way. As part of the Airbnb Inside initiative, this dataset describes the listing activity of homestays in Seattle, WA.
 
 
@@ -50,7 +50,7 @@ There is also a notebook available here to showcsae all my work related to my th
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the [post](#) available
+Medium Blog Post link  [post](https://medium.com/@puruprajapati8/renting-house-worth-in-seattle-analysis-of-seattle-airbnb-data-and-analyzing-customer-review-326038c0fdeb) available
 
 
 
